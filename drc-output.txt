@@ -1,0 +1,13 @@
+** Drc report for 3_5mm-jack-breakout.kicad_pcb **
+** Created on 2025-04-09T00:57:17+0000 **
+
+** Found 1 DRC violations **
+[lib_footprint_mismatch]: Footprint 'PinSocket_1x04_P2.54mm_Vertical' does not match copy in library 'Connector_PinSocket_2.54mm'.
+    Local override; warning
+    @(155.0250 mm, 99.8800 mm): Footprint J2
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

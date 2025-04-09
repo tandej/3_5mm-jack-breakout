@@ -1,0 +1,14 @@
+ERC report (2025-04-09T00:57:16+0000, Encoding UTF8)
+
+***** Sheet /
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Connector_Audio'
+    ; warning
+    @(133.35 mm, 93.98 mm): Symbol J1 [AudioJack4]
+[footprint_link_issues]: The current configuration does not include the footprint library '54-00174'.
+    ; warning
+    @(133.35 mm, 93.98 mm): Symbol J1 [AudioJack4]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Connector_Generic'
+    ; warning
+    @(149.86 mm, 93.98 mm): Symbol J2 [Conn_01x04]
+
+ ** ERC messages: 3  Errors 0  Warnings 3
